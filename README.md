@@ -1,1 +1,3 @@
-# practice-react-date-counter
+Date Counter
+
+![screenshot](screenshot.png)
